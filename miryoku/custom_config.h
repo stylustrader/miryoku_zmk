@@ -2,3 +2,4 @@
 // https://github.com/manna-harbour/miryoku
 
 MIRYOKU_CLIPBOARD=MACSWAP
+#define MIRYOKU_KLUDGE_MOUSEKEYSPR
