@@ -2,7 +2,7 @@
 // https://github.com/manna-harbour/miryoku
 
 #define MIRYOKU_LAYER_MOUSE \
-&none,             &none,             &none,             &none,             &none,             &none,             &kp KP_N7,         &kp KP_N8,         &kp KP_N9,         &none,             \
-&kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &none,             &none,             &kp KP_N4,         &kp KP_N5,         &kp KP_N6,         &none,             \
-&none,             &none,             &none,             &none,             &none,             &none,             &kp KP_N1,         &kp KP_N2,         &kp KP_N3,         &none,             \
-&none,             &none,             &none,             &none,             &none,             U_BTN1,            U_BTN2,            U_BTN3,            &none,             &none
+&none,             &none,             &none,             &none,             &none,             U_RDO,              U_PST,             U_CPY,             U_CUT,             U_UND,             \
+&kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &none,             U_MS_U,             U_WH_L,            U_MS_U,            U_WH_R,            &none,             \
+&none,             &none,             &none,             &none,             &none,             U_MS_D,             U_MS_L,            U_MS_D,            U_MS_R,            &none,             \
+&none,             &none,             &none,             &none,             &none,             U_BTN1,             U_BTN2,            U_BTN3,            &none,             &none
